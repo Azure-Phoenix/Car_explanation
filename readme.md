@@ -1,4 +1,4 @@
-# Three.js Journey
+# Car Explanation
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
